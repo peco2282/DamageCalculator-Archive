@@ -3,7 +3,7 @@ created by peco2282
 
 discord: https://discord.gg/5t6Ubgeq6Z
 
-[![GitHub](https://img.shields.io/github/license/peco2282/DamageCalculator-Archive)](https://github.com/peco2282/DamageCalc/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/peco2282/DamageCalculator-Archive)](https://github.com/peco2282/DamageCalculator-Archive/blob/main/LICENSE)
 [![Github](https://img.shields.io/badge/version-1.10.0-blue.svg)](https://github.com/peco2282/DamageCalc/blob/main/main.py)
 [![Discord server invice](https://discord.com/api/guilds/885757485871398985/embed.png)](https://discord.gg/5t6Ubgeq6Z)
 
