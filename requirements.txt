@@ -1,0 +1,11 @@
+# git+https://github.com/Rapptz/discord.py
+# git+https://github.com/nextcord/nextcord
+git+https://github.com/Pycord-Development/pycord
+python-dotenv
+asyncio
+pytz
+motor
+dnspython
+requests
+aiohttp
+pytz
